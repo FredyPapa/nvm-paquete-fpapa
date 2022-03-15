@@ -26,3 +26,5 @@ class Operaciones{
         return num1/num2;
     }
 }
+
+module.exports = new Operaciones();
